@@ -2,3 +2,7 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 data/heartbeat-sounds/
+__pycache__/
+.vscode/
+data/sign-language-mnist/
+Tarea 3/data/sign-language-mnist/
